@@ -1,0 +1,2 @@
+# project
+git_studiy
